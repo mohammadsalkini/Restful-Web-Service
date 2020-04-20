@@ -2,7 +2,7 @@
 Restful Web Service Example
 
 
-Social Media Application
+# Social Media Application
 
 User -> Posts
 
