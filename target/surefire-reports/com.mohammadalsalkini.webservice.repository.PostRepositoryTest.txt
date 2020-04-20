@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.mohammadalsalkini.webservice.repository.PostRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.273 s <<< FAILURE! - in com.mohammadalsalkini.webservice.repository.PostRepositoryTest
+initializationError(com.mohammadalsalkini.webservice.repository.PostRepositoryTest)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
